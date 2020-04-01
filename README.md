@@ -1,2 +1,2 @@
-# fcc-coding-interview-prep-algorithms
-FCC Coding Interview Prep Algorithms
+# FCC Coding Interview Prep Algorithms
+https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/
